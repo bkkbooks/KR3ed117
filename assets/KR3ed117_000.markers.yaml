@@ -20,7 +20,6 @@ markers:
   - {type: 'tls:seg', offset: 35, content: '', id: KR3ed117_jc_000-d2.p2s8}
   - {type: punctuation, offset: 42, content: 。, id: KR3ed117_jc_000-bkkpn8}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3ed117_jc_000-d2.p2s9}
-  - {type: substitution, offset: 46, original: 蒐, replacement: 搜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1194}}
   - {type: punctuation, offset: 48, content: 。, id: KR3ed117_jc_000-bkkpn9}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3ed117_jc_000-d2.p2s10}
   - {type: punctuation, offset: 55, content: 。, id: KR3ed117_jc_000-bkkpn10}
@@ -33,7 +32,6 @@ markers:
   - {type: 'tls:seg', offset: 78, content: '', id: KR3ed117_jc_000-d2.p2s14}
   - {type: punctuation, offset: 83, content: 。, id: KR3ed117_jc_000-bkkpn14}
   - {type: 'tls:seg', offset: 83, content: '', id: KR3ed117_jc_000-d2.p2s15}
-  - {type: substitution, offset: 87, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 91, content: 。, id: KR3ed117_jc_000-bkkpn15}
   - {type: 'tls:seg', offset: 91, content: '', id: KR3ed117_jc_000-d2.p2s16}
   - {type: punctuation, offset: 95, content: 。, id: KR3ed117_jc_000-bkkpn16}
@@ -76,7 +74,6 @@ markers:
   - {type: 'tls:seg', offset: 205, content: '', id: KR3ed117_jc_000-d2.p2s35}
   - {type: punctuation, offset: 216, content: 。, id: KR3ed117_jc_000-bkkpn35}
   - {type: 'tls:seg', offset: 216, content: '', id: KR3ed117_jc_000-d2.p2s36}
-  - {type: substitution, offset: 225, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 227, content: 。, id: KR3ed117_jc_000-bkkpn36}
   - {type: 'tls:seg', offset: 227, content: '', id: KR3ed117_jc_000-d2.p2s37}
   - {type: punctuation, offset: 231, content: 。, id: KR3ed117_jc_000-bkkpn37}
@@ -118,4 +115,4 @@ markers:
   - {type: xml-element, offset: 334, content: '', id: KR3ed117_jc_000-d2p4_end, name: p, role: close, attrs: {'xml:id': KR3ed117_jc_000-d2p4}}
   body: []
   back: []
-hash: sha256:6839ed66297d65b71980e7623a62da9ea9157ec02922462d03969a90de19f360
+hash: sha256:2c5428a038064ae8c2548a6dc07c85e6627c13740240705bcd8fed8b33c44418
