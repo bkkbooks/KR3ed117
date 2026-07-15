@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed117/v1
 canonical_location: https://kanripo.org/bkk/KR3ed117/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 經驗奇方
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed117_000.yaml, hash: 'sha256:c877bcdf7837d50d715ffe8b64425e77aeeb367322640cbac22a4aba1b33f3f8'}
-  - {seq: 1, filename: KR3ed117_001.yaml, hash: 'sha256:8aba40fc1f4c44e4bb6bff3d28dcb74d614ee941c0e647486b77405b5a65b355'}
-  - {seq: 3, filename: KR3ed117_003.yaml, hash: 'sha256:8e37934379549fde12f8c2e9204a1ad8a8a431ba095b78a92bff1a0e01a6dcc1'}
+  - {seq: 0, filename: KR3ed117_000.yaml, hash: 'sha256:005a9d27dfd373d689b6f71d2c8cdd557cf2f4191ab668b75a2f84f6ccacc673'}
+  - {seq: 1, filename: KR3ed117_001.yaml, hash: 'sha256:f55d53e2df136718ca28370b9788d48fdd1fa0fb9c12d42109989b6b69a5049b'}
+  - {seq: 3, filename: KR3ed117_003.yaml, hash: 'sha256:3ee4ed3af774f482aafc2f97b6de44aa8ec0dc4b3f8b4a18e0d2c377f6498e07'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed117_000.markers.yaml, hash: 'sha256:2c5428a038064ae8c2548a6dc07c85e6627c13740240705bcd8fed8b33c44418'}
-  - {seq: 1, role: markers, filename: assets/KR3ed117_001.markers.yaml, hash: 'sha256:8c02036c19f1e5dff81380afd29acf6150650292736c26a49f98f0c7763bccfc'}
-  - {seq: 3, role: markers, filename: assets/KR3ed117_003.markers.yaml, hash: 'sha256:90d15ac3c110b0ae4537fbf979847e009c3e12e5dc144ab938d98c2145f187f3'}
+  - {seq: 0, role: markers, filename: assets/KR3ed117_000.markers.yaml, hash: 'sha256:686570aae01b63140d68409ad2011e66a983671566b19734823ec6ba0715aade'}
+  - {seq: 1, role: markers, filename: assets/KR3ed117_001.markers.yaml, hash: 'sha256:507ae5aa2cce6b8159352aa8ed69fa9c497030960f8c118e4a86d3c1dfe3ceb0'}
+  - {seq: 3, role: markers, filename: assets/KR3ed117_003.markers.yaml, hash: 'sha256:65bcd84374db39d3796b1d904098a6ddcd4c1d33d50707ea6a9b098cdbb2bc77'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1255,4 +1255,7 @@ table_of_contents:
   label: 爛腳臁瘡
   type: section
   level: 2
-hash: sha256:7e44e5cd1e2a7df0026241f84c7139fb07da50631ef1eb787bc6e81dcfb93967
+hash: sha256:341b183f4f6309a936b057af97c18499d6a94bb99345be88fac156579ce38db6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
